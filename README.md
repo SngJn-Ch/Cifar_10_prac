@@ -14,8 +14,9 @@
 
   The Cifar10 Dataset consists of 10 classes. The 10 classes are followings: airplane, automobile, bird, cat, deer, dog, frog, horse, ship , and truck. Each of the classes has 1000 images which has size of 32 by 32.
   
-  ![image](https://user-images.githubusercontent.com/111392592/185274871-571b3be2-7470-48ff-a359-448fd2f43a0d.png)
   
+  ![image](https://user-images.githubusercontent.com/111392592/185275250-10b38df0-92da-45b8-9e2d-77a4e25111f8.png)
+
   
 # Result
 
