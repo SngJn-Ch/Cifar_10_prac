@@ -2,7 +2,7 @@
 
 # Description
 
-  Using Cifar10 Dataset to implement CNN
+  Use Cifar10 Dataset to implement CNN
   
 # What is CNN?
   
