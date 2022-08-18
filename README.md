@@ -8,11 +8,11 @@
   
   ![image](https://user-images.githubusercontent.com/111392592/185273990-cb248445-49da-4fdd-90b3-ac97dea6ac52.png)
 
-  CNN stands for Convolutional Neural Network. CNN has multilayers which are consists of the nodes. Each nodes are like artifical neurons that has its own weight. If you pass some data, for example, images, each nodes will take a pixel values, pick up the features of the images, and calibrate its weight to give a desirable output. 
+  CNN stands for Convolutional Neural Network. CNN has multilayers which are consists of nodes. Each node is like an artificial neuron that has its own weight. If you pass some data, for example, images, each node will take pixel values, pick up the features of the images, and calibrate its weight to give a desirable output. 
   
 # What is Cifar 10 dataset?
 
-  The Cifar10 Dataset consists of 10 classes. The 10 classes are followings: airplane, automobile, bird, cat, deer, dog, frog, horse, ship , and truck. Each of the classes has 1000 images which has size of 32 by 32.
+  The Cifar10 Dataset consists of 10 classes. The 10 classes are followings: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck. Each of the classes has 1000 images which have the size of 32 by 32.
   
   
   ![image](https://user-images.githubusercontent.com/111392592/185275250-10b38df0-92da-45b8-9e2d-77a4e25111f8.png)
