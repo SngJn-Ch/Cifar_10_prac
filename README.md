@@ -31,5 +31,5 @@
 
   https://www.udemy.com/course/deep-learning-tensorflow-2/
   https://www.cs.toronto.edu/~kriz/cifar.html
-
+  https://paperswithcode.com/dataset/cifar-10
   https://www.freecodecamp.org/news/convolutional-neural-network-tutorial-for-beginners/
