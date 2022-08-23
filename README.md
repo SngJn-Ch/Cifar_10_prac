@@ -32,9 +32,10 @@
   
   Less loss, more accuracy
   
-  1. Use dropout layer
-  2. calibrate layer filter size
-  3. clibrate layer number
+  1. Use the dropout layer
+  2. Calibrate layer filter size
+  3. Calibrate the number of layers.
+  4. Change data format
 
 # Reference link
 
