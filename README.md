@@ -27,6 +27,15 @@
   
   loss: 0.1949 - accuracy: 0.9329 - val_loss: 0.3428 - val_accuracy: 0.9136
 
+
+# Future improvement
+  
+  Less loss, more accuracy
+  
+  1. Use dropout layer
+  2. calibrate layer filter size
+  3. clibrate layer number
+
 # Reference link
 
   https://www.udemy.com/course/deep-learning-tensorflow-2/
